@@ -8,6 +8,9 @@ work/
 *.bak
 *~
 
+# Stapler droppings
+*_invalid.properties
+
 # copied markdown files for site
 src/site/markdown/
 
